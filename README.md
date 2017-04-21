@@ -13,4 +13,4 @@ My goal is to keep the site clean and easy to navigate.
 
 The website has a lot of work ahead of it, as I intend to incorporate more of what I am learning.
 
-[You can preview the site from github here](../ckroll17/bio-site/blob/master/index.html)
+[You can preview the site from github here](http://htmlpreview.github.io/?https://github.com/ckroll17/bio-site/blob/master/index.html)
