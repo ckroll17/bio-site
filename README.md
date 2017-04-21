@@ -12,3 +12,5 @@ Below, I've sectioned of 4 spots for brief bio blurbs. Myself, my dogs, my famil
 My goal is to keep the site clean and easy to navigate.
 
 The website has a lot of work ahead of it, as I intend to incorporate more of what I am learning.
+
+[You can preview the site from github here](../ckroll17/bio-site/blob/master/index.html)
