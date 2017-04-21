@@ -1,0 +1,244 @@
+/*cloud #1 */
+#cloud1 {
+	width: 205px; height: 75px;
+
+	background: #f2f9fe;
+
+	border-radius: 100px;
+	-webkit-border-radius: 100px;
+	-moz-border-radius: 100px;
+
+	position: absolute;
+  top: -20px;
+  left: -100px;
+	margin: 120px 100px 20px;
+  z-index:0;
+  opacity: 0.9;
+  animation: cloud01 70000ms infinite;
+}
+
+#cloud1:after, #cloud1:before {
+	content: '';
+	position: absolute;
+	background: #f2f9fe;
+	z-index:0;
+}
+
+#cloud1:after {
+	width: 85px; height: 85px;
+  top: -40px; right: 40px;
+	border-radius: 100px;
+	-webkit-border-radius: 100px;
+	-moz-border-radius: 100px;
+}
+
+#cloud1:before {
+	width: 50px; height: 50px;
+  top: -30px; left: 40px;
+
+	border-radius: 100px;
+	-webkit-border-radius: 100px;
+	-moz-border-radius: 100px;
+}
+
+/*cloud #2 */
+#cloud2 {
+	width: 235px;
+  height: 85px;
+	background: #d7e9f7;
+
+	border-radius: 100px;
+	-webkit-border-radius: 100px;
+	-moz-border-radius: 100px;
+
+	position: absolute;
+  top: 80px;
+  left: 380px;
+	margin: 120px 100px 20px;
+  z-index:1;
+  opacity: 0.6;
+  animation: cloud02 7500ms infinite;
+}
+
+#cloud2:after, #cloud2:before {
+	content: '';
+	position: absolute;
+	background: #d7e9f7;
+	z-index: 1;
+}
+
+#cloud2:after {
+	width: 105px; height: 148px;
+  top: -50px; right: 40px;
+	border-radius: 100px;
+	-webkit-border-radius: 100px;
+	-moz-border-radius: 100px;
+}
+
+#cloud2:before {
+	width: 62px; height: 62px;
+  top: -30px; left: 40px;
+
+	border-radius: 100px;
+	-webkit-border-radius: 100px;
+	-moz-border-radius: 100px;
+}
+
+/*cloud #3 */
+#cloud3 {
+	width: 205px; height: 75px;
+
+	background: #f2f9fe;
+
+	border-radius: 100px;
+	-webkit-border-radius: 100px;
+	-moz-border-radius: 100px;
+
+	position: absolute;
+  top: 175px;
+  left: -800px;
+	margin: 120px 100px 20px;
+  z-index:1;
+  opacity: 0.8;
+  animation: cloud03 95000ms 2s infinite;
+}
+
+#cloud3:after, #cloud3:before {
+	content: '';
+	position: absolute;
+	background: #f2f9fe;
+	z-index: 1;
+}
+
+#cloud3:after {
+	width: 85px; height: 85px;
+  top: -40px; right: 40px;
+	border-radius: 100px;
+	-webkit-border-radius: 100px;
+	-moz-border-radius: 100px;
+}
+
+#cloud3:before {
+	width: 50px; height: 50px;
+  top: -30px; left: 40px;
+
+	border-radius: 100px;
+	-webkit-border-radius: 100px;
+	-moz-border-radius: 100px;
+}
+
+/*cloud #4 */
+#cloud4 {
+	width: 155px; height: 55px;
+
+	background: #f2f9fe;
+
+	border-radius: 100px;
+	-webkit-border-radius: 100px;
+	-moz-border-radius: 100px;
+
+	position: absolute;
+  top: 125px;
+  left: 20px;
+	margin: 120px 100px 20px;
+  z-index:0;
+  opacity: 0.3;
+  animation: cloud04 7500ms infinite;
+}
+
+#cloud4:after, #cloud4:before {
+	content: '';
+	position: absolute;
+	background: #f2f9fe;
+	z-index: 0;
+}
+
+#cloud4:after {
+	width: 45px; height: 45px;
+  top: -20px; right: 35px;
+	border-radius: 100px;
+	-webkit-border-radius: 100px;
+	-moz-border-radius: 100px;
+}
+
+#cloud4:before {
+	width: 60px; height: 60px;
+  top: -30px; left: 30px;
+
+	border-radius: 100px;
+	-webkit-border-radius: 100px;
+	-moz-border-radius: 100px;
+}
+
+/*cloud #5 */
+#cloud5 {
+	width: 260px; height: 92px;
+
+	background: #f2f9fe;
+
+	border-radius: 100px;
+	-webkit-border-radius: 100px;
+	-moz-border-radius: 100px;
+
+	position: absolute;
+  top: 55px;
+  right: 10px;
+	margin: 120px 100px 20px;
+  z-index:1;
+  opacity: 0.7;
+  animation: cloud05 7500ms infinite;
+}
+
+#cloud5:after, #cloud5:before {
+	content: '';
+	position: absolute;
+	background: #f2f9fe;
+	z-index: 1;
+}
+
+#cloud5:after {
+	width: 95px; height: 135px;
+  top: -30px; right: 35px;
+	border-radius: 100px;
+	-webkit-border-radius: 100px;
+	-moz-border-radius: 100px;
+}
+
+#cloud5:before {
+	width: 130px; height: 171px;
+  top: -48px; left: 42px;
+
+	border-radius: 100px;
+	-webkit-border-radius: 100px;
+	-moz-border-radius: 100px;
+}
+
+@keyframes cloud01{
+  0% {margin-left: -500px;}
+	100% {margin-left: 2200px; transform: scale(0.8)}
+}
+
+@keyframes cloud02{
+  0% {transform: translateY(-95px);}
+  50% {transform: translateY(-85px);}
+	100% {transform: translateY(-95px);}
+}
+
+
+
+@keyframes cloud03{
+  0% {margin-left: -800px;}
+	100% {margin-left: 3220px; transform: scale(1.5)}
+}
+
+@keyframes cloud04{
+  0% {transform: translateY(25px);}
+  50% {transform: translateY(38px);}
+	100% {transform: translateY(25px);}
+}
+
+@keyframes cloud05{
+  0% {transform: translateY(15px);}
+  50% {transform: translateY(6px);}
+	100% {transform: translateY(15px);}
+}

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="99.266px" height="92.539px" viewBox="1.066 5.446 99.266 92.539" enable-background="new 1.066 5.446 99.266 92.539"
+	 xml:space="preserve">
+<rect x="64.4" y="18.808" transform="matrix(-0.9404 -0.3402 0.3402 -0.9404 133.2647 84.4809)" fill="#8B8B8F" width="19.276" height="23.499"/>
+<rect x="17.725" y="18.808" transform="matrix(0.9404 -0.3402 0.3402 0.9404 -8.7637 11.1315)" fill="#8B8B8F" width="19.276" height="23.499"/>
+<ellipse fill="#9C9C9C" cx="50.07" cy="55.797" rx="35.92" ry="37.204"/>
+<ellipse fill="#C7CAD5" cx="50.081" cy="67.906" rx="19.835" ry="21.74"/>
+<path d="M50.1,67.685c0,0-9.411,0.25-9.447-7.201c0,0,0.071-7.237,9.447-7.237c0,0,8.769,0.145,8.697,7.219
+	c0,0-0.392,7.221-8.413,7.22c0,0,4.029-0.181,4.741-7.202c0,0,0.321-2.424-5.025-2.709V67.685z"/>
+<g>
+	<defs>
+		<path id="SVGID_1_" d="M28.959,36.871c0,0,6.363,1.414,11.997-5.354c0.095-0.114,0.189-0.23,0.284-0.349l4.287,8.841l-8.284,6.279
+			h-7.466l-3-4.654L28.959,36.871z"/>
+	</defs>
+	<clipPath id="SVGID_2_">
+		<use xlink:href="#SVGID_1_"  overflow="visible"/>
+	</clipPath>
+	<ellipse clip-path="url(#SVGID_2_)" cx="37.533" cy="38.982" rx="4.336" ry="5.58"/>
+</g>
+<g>
+	<defs>
+		<path id="SVGID_3_" d="M72.344,36.871c0,0-6.363,1.414-11.996-5.354c-0.096-0.114-0.189-0.23-0.284-0.349l-4.286,8.841
+			l8.283,6.279h7.467l3-4.654L72.344,36.871z"/>
+	</defs>
+	<clipPath id="SVGID_4_">
+		<use xlink:href="#SVGID_3_"  overflow="visible"/>
+	</clipPath>
+	<ellipse clip-path="url(#SVGID_4_)" cx="65.622" cy="38.982" rx="4.336" ry="5.58"/>
+</g>
+<ellipse fill="#FFFFFF" cx="38.16" cy="40.872" rx="2.008" ry="2.585"/>
+<ellipse fill="#FFFFFF" cx="66.538" cy="40.872" rx="2.009" ry="2.585"/>
+<path fill="none" stroke="#555555" stroke-width="0.25" stroke-linecap="round" stroke-miterlimit="10" d="M41.033,29.975
+	c0,0-8.48,6.088-14.379,6.388"/>
+<image display="none" overflow="visible" enable-background="new    " width="792" height="752" xlink:href="8D107FC8.gif"  transform="matrix(1 0 0 1 -246.7893 -94.5374)">
+</image>
+<polygon fill="#6E6E79" points="23.346,19.538 32.715,16.156 31.197,26.619 29.679,37.081 21.829,30 13.978,22.919 "/>
+<path fill="#C7CAD5" d="M49.725,30.158c0,0,1.006,15.077-12.192,22.126h21.264C58.798,52.285,49.583,47.194,49.725,30.158z"/>
+<ellipse cx="50.071" cy="78.453" rx="7.726" ry="5.555"/>
+<path fill="none" stroke="#555555" stroke-width="0.25" stroke-linecap="round" stroke-miterlimit="10" d="M59.654,28.975
+	c0,0,8.48,6.088,14.379,6.388"/>
+<polygon fill="#6E6E79" points="87.423,22.919 79.572,30 71.721,37.081 70.204,26.619 68.686,16.156 78.054,19.538 "/>
+</svg>
