@@ -1,3 +1,22 @@
+.afjet{
+    position: absolute;
+    left: 100px;
+    z-index: 1;
+    animation: jet01 11000ms infinite;
+}
+
+@keyframes jet01{
+  0% {margin-left: -520px; top: 125px;}
+  100% {margin-left: 2300px; transform: scale(0);top: 10px;}
+}
+
+@media (max-width: 1020px){
+  .afjet{
+      display:none;
+  }
+}
+
+
 /*cloud #1 */
 #cloud1 {
 	width: 205px; height: 75px;
@@ -212,6 +231,17 @@
 	-webkit-border-radius: 100px;
 	-moz-border-radius: 100px;
 }
+
+@media screen and (max-width: 480px)
+
+{
+  #cloud2 { display: none; }
+  #cloud3 { display: none; }
+  #cloud4 { display: none; }
+  #cloud5 { display: none; }
+	
+}
+
 
 @keyframes cloud01{
   0% {margin-left: -500px;}

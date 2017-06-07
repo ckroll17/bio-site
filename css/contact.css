@@ -1,0 +1,85 @@
+@import url('https://fonts.googleapis.com/css?family=Poppins');
+
+#contact-form input[type="text"],
+#contact-form input[type="email"],
+#contact-form input[type="tel"],
+#contact-form input[type="url"],
+#contact-form textarea {
+  min-width: 500px;
+  font-family: 'Poppins', sans-serif;
+  box-shadow: inset 0 1px 2px #ddd, 0 1px 0 #fff;
+  -webkit-box-shadow: inset 0 1px 2px #ddd, 0 1px 0 #fff;
+  -mox-box-shadow: inset 0 1px 2px #ddd, 0 1px 0 #fff;
+  border: 1px solid #ccc;
+  background: #fff;
+  margin: 0 0 5px;
+  padding: 10px;
+  border-radius: 5px;
+}
+
+@media (max-width: 785px){
+  #contact-form input[type="text"],
+#contact-form input[type="email"],
+#contact-form input[type="tel"],
+#contact-form input[type="url"],
+#contact-form textarea {
+  min-width: 400px;
+  font-family: 'Poppins', sans-serif;
+  box-shadow: inset 0 1px 2px #ddd, 0 1px 0 #fff;
+  -webkit-box-shadow: inset 0 1px 2px #ddd, 0 1px 0 #fff;
+  -mox-box-shadow: inset 0 1px 2px #ddd, 0 1px 0 #fff;
+  border: 1px solid #ccc;
+  background: #fff;
+  margin: 0 0 5px;
+  padding: 10px;
+  border-radius: 5px;
+}
+}
+
+@media (max-width: 495px){
+  #contact-form input[type="text"],
+#contact-form input[type="email"],
+#contact-form input[type="tel"],
+#contact-form input[type="url"],
+#contact-form textarea {
+  min-width: 240px;
+  font-family: 'Poppins', sans-serif;
+  box-shadow: inset 0 1px 2px #ddd, 0 1px 0 #fff;
+  -webkit-box-shadow: inset 0 1px 2px #ddd, 0 1px 0 #fff;
+  -mox-box-shadow: inset 0 1px 2px #ddd, 0 1px 0 #fff;
+  border: 1px solid #ccc;
+  background: #fff;
+  margin: 0 0 5px;
+  padding: 10px;
+  border-radius: 5px;
+}
+}
+
+#contact-form label span{
+  display: block;
+  margin: 5px 0;
+  font-weight: 800;
+}
+
+#contact-form input[type="submit"]{
+  font-family: 'Poppins', sans-serif;
+  font-size: 1.25em;
+  cursor: pointer;
+  width: 250px;
+  border: none;
+  background: #ef4524;
+  color: #fff;
+  margin: 0 0 5px;
+  padding: 13px;
+  border-radius: 5px;
+}
+
+::-webkit-input-placeholder{
+  color:#ddd;
+  :-moz-input-placeholder{
+    color:#ddd;
+  }
+  :-ms-input-placeholder{
+    color:#fff;
+  }
+}

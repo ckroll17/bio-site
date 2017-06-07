@@ -1,0 +1,14 @@
+#afjet{
+    background-image: url(images/carla.gif);
+    position: absolute;
+    top: 75px;
+    left: 100px;
+    z-index: 10;
+/*  animation: jet1 70000ms infinite;*/
+}
+
+/*
+@keyframes jet1{
+  0% {margin-left: -500px;}
+	100% {margin-left: 2200px; transform: scale(0.8)}
+}*/
